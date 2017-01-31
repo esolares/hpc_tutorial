@@ -3,6 +3,8 @@
 This includes files that were used for the Bridge to the Doctorage HPC Presentation
 
 ##Here are some links for some online tutorials
+###More HPC Tutorial info thanks to Kevin Thorton
+https://github.com/ThorntonLab/biocluster
 
 ###BASH
 Comming soon
@@ -27,9 +29,16 @@ https://training.enthought.com/
 
 ####Additional links to materials thanks to Kevin Thorton, Phd. @ UC Irvine
 Phil Spectors @ UC Berkeley notes on Python: 
+
 https://www.stat.berkeley.edu/~spector/python
+
 https://www.stat.berkeley.edu/~spector/pythonslides.pdf
+
+
+
 Steffen Brinkmann notes on Python
+
+
 https://anonimops.de/PythonCrash/PythonNumpy.pdf
 
 ###R
