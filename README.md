@@ -8,7 +8,6 @@ This includes files that were used for the Bridge to the Doctorage HPC Presentat
 https://github.com/ThorntonLab/biocluster
 
 <h4>BASH
-Comming soon
 <h5>Links to materials thanks to J.J. Emerson, PhD @ UC Irvine
 Michael Stonebank @ University of Surrey 
 http://www.ee.surrey.ac.uk/Teaching/Unix/
