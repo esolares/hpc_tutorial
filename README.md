@@ -35,10 +35,16 @@ https://www.stat.berkeley.edu/~spector/python
 
 https://www.stat.berkeley.edu/~spector/pythonslides.pdf
 
+<h5> Python Data Analysis Tutorial
+Some tutorials on Pandas
+http://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html
+https://www.tutorialspoint.com/python_pandas/index.htm
 
+<h5> Python Graphing utilities Tutorial
+Some tutorials on Seaborn and Graphing
+http://seaborn.pydata.org/tutorial.html
 
 Steffen Brinkmann notes on Python
-
 
 https://anonimops.de/PythonCrash/PythonNumpy.pdf
 
