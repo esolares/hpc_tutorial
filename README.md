@@ -33,6 +33,10 @@ The training website
 
 https://training.enthought.com/
 
+Python Object Oriented Programing
+
+https://realpython.com/python3-object-oriented-programming/#python-objects-instances
+
 ##### Additional links to materials thanks to Kevin Thorton, Phd. @ UC Irvine
 Phil Spectors @ UC Berkeley notes on Python: 
 
